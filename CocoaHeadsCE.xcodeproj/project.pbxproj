@@ -16,6 +16,7 @@
 		577855ED23834C99001740E1 /* CocoaHeadsCETests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577855EC23834C99001740E1 /* CocoaHeadsCETests.swift */; };
 		577855F823834C99001740E1 /* CocoaHeadsCEUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577855F723834C99001740E1 /* CocoaHeadsCEUITests.swift */; };
 		5778560623835612001740E1 /* UIColor+AppColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5778560523835612001740E1 /* UIColor+AppColors.swift */; };
+		5778560823835697001740E1 /* UIImage+AppImages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5778560723835697001740E1 /* UIImage+AppImages.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		577855F723834C99001740E1 /* CocoaHeadsCEUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaHeadsCEUITests.swift; sourceTree = "<group>"; };
 		577855F923834C99001740E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5778560523835612001740E1 /* UIColor+AppColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+AppColors.swift"; sourceTree = "<group>"; };
+		5778560723835697001740E1 /* UIImage+AppImages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+AppImages.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				577855E323834C98001740E1 /* Info.plist */,
 				577855DB23834C96001740E1 /* CocoaHeadsCE.xcdatamodeld */,
 				5778560523835612001740E1 /* UIColor+AppColors.swift */,
+				5778560723835697001740E1 /* UIImage+AppImages.swift */,
 			);
 			path = CocoaHeadsCE;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				577855D723834C96001740E1 /* ViewController.swift in Sources */,
 				5778560623835612001740E1 /* UIColor+AppColors.swift in Sources */,
 				577855D323834C96001740E1 /* AppDelegate.swift in Sources */,
+				5778560823835697001740E1 /* UIImage+AppImages.swift in Sources */,
 				577855D523834C96001740E1 /* SceneDelegate.swift in Sources */,
 				577855DD23834C96001740E1 /* CocoaHeadsCE.xcdatamodeld in Sources */,
 			);
