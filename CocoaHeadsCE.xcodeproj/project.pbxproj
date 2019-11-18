@@ -15,6 +15,7 @@
 		577855E223834C98001740E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 577855E023834C98001740E1 /* LaunchScreen.storyboard */; };
 		577855ED23834C99001740E1 /* CocoaHeadsCETests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577855EC23834C99001740E1 /* CocoaHeadsCETests.swift */; };
 		577855F823834C99001740E1 /* CocoaHeadsCEUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 577855F723834C99001740E1 /* CocoaHeadsCEUITests.swift */; };
+		5778560623835612001740E1 /* UIColor+AppColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5778560523835612001740E1 /* UIColor+AppColors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		577855F323834C99001740E1 /* CocoaHeadsCEUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CocoaHeadsCEUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		577855F723834C99001740E1 /* CocoaHeadsCEUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocoaHeadsCEUITests.swift; sourceTree = "<group>"; };
 		577855F923834C99001740E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5778560523835612001740E1 /* UIColor+AppColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+AppColors.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				577855E023834C98001740E1 /* LaunchScreen.storyboard */,
 				577855E323834C98001740E1 /* Info.plist */,
 				577855DB23834C96001740E1 /* CocoaHeadsCE.xcdatamodeld */,
+				5778560523835612001740E1 /* UIColor+AppColors.swift */,
 			);
 			path = CocoaHeadsCE;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				577855D723834C96001740E1 /* ViewController.swift in Sources */,
+				5778560623835612001740E1 /* UIColor+AppColors.swift in Sources */,
 				577855D323834C96001740E1 /* AppDelegate.swift in Sources */,
 				577855D523834C96001740E1 /* SceneDelegate.swift in Sources */,
 				577855DD23834C96001740E1 /* CocoaHeadsCE.xcdatamodeld in Sources */,
